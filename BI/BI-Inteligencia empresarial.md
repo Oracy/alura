@@ -1,0 +1,45 @@
+# Aula 01, aprendemos
+
+    - Um pouco da história do BI desde os primórdios da humanidade até os dias de hoje;
+    - A chave está em transformar dado em informação usando diversas fontes de dados;
+    - Conhecemos a empresa de Suco de Frutas que irá nos acompanhar nos diversos cursos de BI.
+
+# Aula 02, aprendemos
+
+    - Diversos problemas podem ocorrer quando não tomamos cuidado em extrair informações das empresas;
+    - Temos departamentos que olham valores dos mesmos indicadores de maneiras distintas;
+    - Diferentes formas de agregação dentro da empresa;
+    - Sistemas de informação que não se falam também é um problema muito comum.
+
+# Aula 03, aprendemos
+
+    - Que o Data Warehouse cria uma estrutura de dados totalmente separada da estrutura operacional da empresa;
+    - Que o primeiro passo para projetar um Data Warehouse é conhecer a empresa e entrevistar seus usuários chaves;
+    - Que o resultado das entrevistas são resumidos na Matriz Dimensão Indicador.
+
+# Aula 04, aprendemos
+
+    - Que o projeto do Data Warehouse deriva da Matriz Dimensão Indicador;
+    - Que as tabelas de fatos são projetadas através da análise dos cruzamentos entre dimensões e indicadores;
+    - Que a dimensão deve ser analisada com cuidado para juntar entidades que possuam relacionamentos;
+    - Que podemos projetar as tabelas de dimensões usando distintos layouts.
+
+# Aula 05, aprendemos
+
+    - Algumas dicas que ajudam a decidir se uma relação de apenas dois níveis vão ser projetadas no Data Warehouse, como hierarquias ou atributos;
+    - A dimensão tempo, obrigatória em todo Data Warehouse;
+    - Como representar dimensões irregulares;
+    - Aprendemos a necessidade de construção de processos de ETL para carregar os Data Warehouses.
+
+# Aula 06, aprendemos
+
+    - Por que os Data Warehouses podem apresentar problemas de performance;
+    - Como funciona um OLAP e suas vantagens em relação a obter resultados consolidados;
+    - Que existem diversos tipos de OLAPs;
+    - Os pontos importantes na hora de decidir quais os relatórios devem ser disponibilizados para cada tipo de usuário da empresa.
+
+# Aula 07, aprendemos
+
+    - O processo de construção de um sistema de BI;
+    - Os conceitos da matriz dimensão indicador da empresa de suco de frutas;
+    - Entendemos um pouco mais de algumas variações do BI como Data Mining, Balanced Scorecard e Big Data.
